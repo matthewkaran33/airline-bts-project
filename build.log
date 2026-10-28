@@ -1,0 +1,48 @@
+== DB1B Market 2024 (fares) ==
+Origin_and_Destination_Survey_DB1BMarket_2024_1.zip -> Origin Dest Passengers MktFare MktDistance RPCarrier
+   kept so far: 6,935,406
+Origin_and_Destination_Survey_DB1BMarket_2024_2.zip -> Origin Dest Passengers MktFare MktDistance RPCarrier
+   kept so far: 14,930,762
+Origin_and_Destination_Survey_DB1BMarket_2024_3.zip -> Origin Dest Passengers MktFare MktDistance RPCarrier
+   kept so far: 22,667,729
+Origin_and_Destination_Survey_DB1BMarket_2024_4.zip -> Origin Dest Passengers MktFare MktDistance RPCarrier
+   kept so far: 30,648,135
+DB1B total kept: 30648135
+== On-Time 2024 (reliability) ==
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_10.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_10.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_11.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_11.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_12.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_12.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_2.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_2.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_3.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_3.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_4.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_4.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_5.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_5.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_6.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_6.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_7.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_7.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_8.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_8.zip
+On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_9.zip -> Origin Dest Reporting_Airline Month Cancelled Diverted ArrDelay DepDelay ArrDel15
+   done On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_9.zip
+DB1B fare records kept (domestic, fare >= $50): 30,648,135
+Routes in merged table: 6,764
+Total sampled passengers (DB1B 10 pct sample): 45,064,310
+Total On-Time flights 2024: 7,079,061
+Overall passenger weighted avg fare: $233.35
+Overall cancelled pct: 1.36%
+Overall arrival delay 15+ pct (of operated): 20.82%
+Overall avg arrival delay min: 7.10
+Routes with 500+ sampled passengers: 6,032
+Fare vs distance correlation (routes 500+ pax): 0.534
+Fare vs delay15 correlation (routes 500+ pax): 0.007
+
+Saved to /home/hatch/workspace/airline-bts-project/data
